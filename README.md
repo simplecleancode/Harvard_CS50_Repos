@@ -4,6 +4,8 @@ This repository was created to display Sergio's completed CS50 class projets. Se
 
 ## Class projects
 
+###Written in C programming language
+
 - Credit
 - Mario
 - Plurality
